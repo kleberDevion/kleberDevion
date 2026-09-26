@@ -10,7 +10,7 @@ Linguagem de propósito geral, antes chamada PoolScript. O repositório ainda ca
 
 Sintaxe própria: `funct`, `Entity`/`class`, `model`, `enum`, `private`/`public`, `base(Pai)`, `async`/`await` com fibras.
 
-- Tipagem estática conferida antes de rodar (`jinga --check`).
+- Tipagem estática conferida antes de rodar (`jinga --check`). Vai ter 'nome = valor' você também pode criar variáveis dinâmicas, assim como no Python - O tempo de execução só fica mas lento, ai e problema seu ou da sua maquina.
 - Máquina virtual em C, cerca de 60 mil linhas.
 - Compilação direta do fonte em duas passadas.
 - Laços viram código de máquina x86-64 (JIT).
