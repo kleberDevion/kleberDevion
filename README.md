@@ -1,6 +1,8 @@
 # kleberDevion
 
-Brasileiro. Escrevo em português. Criei uma linguagem de programação. O resto desta página é rodapé.
+Me chamo Kleber.
+Projetos uteis 'Pra mim e':
+Criei uma linguagem de programação. O resto desta página é rodapé.
 
 ## Jinga
 
