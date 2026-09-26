@@ -69,7 +69,7 @@ Não são preferências, são regras.
 | Onde | Nível |
 |---|---|
 | Jinga | Criador. Motor, stdlib, LSP, gerenciador de pacotes e documentação. |
-| Python | A linguagem que mais conheço. |
+| Python | A linguagem que mais conheço. E tbm um pouco de C - e quase nada assim como o 'Quase nada' de chapolin, mas tenho. |
 | React | Tenho experiência. Não muita, mas tenho. |
 | JavaScript | Um pouco. |
 | CSS / Tailwind | Copio e colo o componente. Funciona. |
@@ -80,7 +80,8 @@ Sou preguiçoso. Na prática isso vira automatizar tudo que se repete. Automatiz
 
 ## Contato
 
-Só aqui no GitHub.
+Whatsapp: '(27) 98123-8061'
+E-mail: kleberdevion@proton.me || klebersantanadeoliveira07@gmail.com
 
 ## Repositório
 
