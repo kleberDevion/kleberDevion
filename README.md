@@ -40,14 +40,14 @@ Sintaxe própria: `funct`, `Entity`/`class`, `model`, `enum`, `private`/`public`
 - Depurador com breakpoint, passo a passo e gráfico de execução.
 
 ```
-funct maior(a, b) {
+public static funct maior(a, b) {
     if a > b {
         return a
     }
     return b
 }
 
-Entity Ponto {
+public class Ponto {
     funct __init__(self, x) {
         self.x = x
     }
