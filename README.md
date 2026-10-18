@@ -32,9 +32,6 @@ Criei uma linguagem de programação. O resto desta página é rodapé.
 | JavaScript | Um pouco. |
 | CSS / Tailwind | Copio e colo o componente. Funciona. |
 
-## Sobre a preguiça
-
-Sou preguiçoso. Na prática isso vira automatizar tudo que se repete.
 ## Contato
 
 Whatsapp: '(27) 98123-8061'
