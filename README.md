@@ -34,8 +34,7 @@ Criei uma linguagem de programação. O resto desta página é rodapé.
 
 ## Sobre a preguiça
 
-Sou preguiçoso. Na prática isso vira automatizar tudo que se repete. Automatizar cansa menos do que repetir, e o script é escrito em Jinga.
-
+Sou preguiçoso. Na prática isso vira automatizar tudo que se repete.
 ## Contato
 
 Whatsapp: '(27) 98123-8061'
