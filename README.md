@@ -36,11 +36,3 @@ Criei uma linguagem de programação. O resto desta página é rodapé.
 
 Whatsapp: '(27) 98123-8061'
 E-mail: kleberdevion@proton.me || klebersantanadeoliveira07@gmail.com
-
-## Repositório
-
-https://github.com/kleberDevion/poolscript
-
-```sh
-curl -fsSL https://raw.githubusercontent.com/kleberDevion/poolscript/main/instalar.sh | sudo bash
-```
