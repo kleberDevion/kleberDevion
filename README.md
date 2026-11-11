@@ -1,8 +1,3 @@
-![CSS3](https://shields.io/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Python](https://shields.io)
-![C](https://shields.io)
-
-
 # kleberDevion
 
 Me chamo Kleber.
