@@ -1,20 +1,4 @@
-<div style="display: flex; gap: 12px; align-items: center;">
-  <a href="https://cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
-</div>   
+<a href="https://camo.githubusercontent.com/d4e110f29e6f51525455d388a8d3bedd31fb8af96643821a8adc8c7329f030fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d666666"/>
 
 # kleberDevion
 
@@ -28,9 +12,7 @@ Criei uma linguagem de programação. O resto desta página é rodapé.
 |---|---|
 | Jinga | Criador. Motor, stdlib, LSP, gerenciador de pacotes e documentação. |
 | Python | A linguagem que mais conheço. E tbm um pouco de C - e quase nada assim como o 'Quase nada' de chapolin, mas tenho. |
-| React | Tenho experiência. Não muita, mas tenho. |
-| JavaScript | Um pouco. |
-| CSS / Tailwind | Copio e colo o componente. Funciona. |
+| CSS / | Copio e colo o componente. Funciona. |
 
 ## Contato
 
