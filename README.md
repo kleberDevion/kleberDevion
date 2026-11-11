@@ -1,8 +1,7 @@
-<p>
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
-</p>
+![CSS3](https://shields.io)
+![Python](https://shields.io)
+![C](https://shields.io)
+
 
 # kleberDevion
 
