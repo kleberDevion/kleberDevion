@@ -10,8 +10,7 @@ Criei uma linguagem de programação. O resto desta página é rodapé.
 | Onde | Nível |
 |---|---|
 | Jinga | Criador. Motor, stdlib, LSP, gerenciador de pacotes e documentação. |
-| Python | A linguagem que mais conheço. E tbm um pouco de C - e quase nada assim como o 'Quase nada' de chapolin, mas tenho. |
-| CSS / | Copio e colo o componente. Funciona. |
+| Python - C | A linguagem que mais conheço. E tbm um pouco de C. |
 
 ## Contato
 
