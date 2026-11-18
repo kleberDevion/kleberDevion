@@ -6,11 +6,7 @@ Projetos uteis 'Pra mim e':
 Criei uma linguagem de programação. O resto desta página é rodapé.
 
 ## Stack
-
-| Onde | Nível |
-|---|---|
-| Jinga | Criador. Motor, stdlib, LSP, gerenciador de pacotes e documentação. |
-| Python - C | A linguagem que mais conheço. E tbm um pouco de C. |
+Python, C, Jinga, JS, NEXT, REACT
 
 ## Contato
 
